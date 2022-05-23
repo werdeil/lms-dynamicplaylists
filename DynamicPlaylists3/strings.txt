@@ -1712,43 +1712,43 @@ PLUGIN_DYNAMICPLAYLISTS3_BUILTIN_PLAYLIST_CONTEXT_ALBUM_SONGS_PLAYEDLONGAGO_APC
 
 PLUGIN_DYNAMICPLAYLISTS3_BUILTIN_PLAYLIST_CONTEXT_ARTIST_SONGS_MOSTPLAYED_APC
 	EN	Songs - most played (APC)   (by selected artist)
-	FR	Morceaux - les plus jouées (APC) (APC)   (de l'artiste sélectionné)
+	FR	Morceaux - les plus jouées (APC)   (de l'artiste sélectionné)
 
 PLUGIN_DYNAMICPLAYLISTS3_BUILTIN_PLAYLIST_CONTEXT_ARTIST_SONGS_LEASTPLAYED_APC
 	EN	Songs - least played (APC)   (by selected artist)
-	FR	Morceaux - les moins joués (APC) (APC)   (de l'artiste sélectionné)
+	FR	Morceaux - les moins joués (APC)   (de l'artiste sélectionné)
 
 PLUGIN_DYNAMICPLAYLISTS3_BUILTIN_PLAYLIST_CONTEXT_ARTIST_SONGS_NEVERPLAYED_APC
 	EN	Songs - never played (APC)   (by selected artist)
-	FR	Morceaux - jamais jouées (APC) (APC)   (de l'artiste sélectionné)
+	FR	Morceaux - jamais jouées (APC)   (de l'artiste sélectionné)
 
 PLUGIN_DYNAMICPLAYLISTS3_BUILTIN_PLAYLIST_CONTEXT_ARTIST_SONGS_PLAYEDLONGAGO_APC
 	EN	Songs - played long ago (APC)   (by selected artist)
-	FR	Morceaux - joués il y a longtemps (APC) (APC)   (de l'artiste sélectionné)
+	FR	Morceaux - joués il y a longtemps (APC)   (de l'artiste sélectionné)
 
 PLUGIN_DYNAMICPLAYLISTS3_BUILTIN_PLAYLIST_CONTEXT_ARTIST_ALBUMS_MOSTPLAYED_APC
 	EN	Albums - most played (absolute count) (APC)   (by selected artist)
-	FR	Albums - les plus jouées (compte absolu) (APC) (APC)   (de l'artiste sélectionné)
+	FR	Albums - les plus jouées (compte absolu) (APC)   (de l'artiste sélectionné)
 
 PLUGIN_DYNAMICPLAYLISTS3_BUILTIN_PLAYLIST_CONTEXT_ARTIST_ALBUMS_MOSTPLAYEDAVG_APC
 	EN	Albums - most played (average count) (APC)   (by selected artist)
-	FR	Albums - les plus jouées (compte moyen) (APC) (APC)   (de l'artiste sélectionné)
+	FR	Albums - les plus jouées (compte moyen) (APC)   (de l'artiste sélectionné)
 
 PLUGIN_DYNAMICPLAYLISTS3_BUILTIN_PLAYLIST_CONTEXT_ARTIST_ALBUMS_LEASTPLAYED_APC
 	EN	Albums - least played (absolute count) (APC)   (by selected artist)
-	FR	Albums - les moins joués (compte absolu) (APC) (APC)   (de l'artiste sélectionné)
+	FR	Albums - les moins joués (compte absolu) (APC)   (de l'artiste sélectionné)
 
 PLUGIN_DYNAMICPLAYLISTS3_BUILTIN_PLAYLIST_CONTEXT_ARTIST_ALBUMS_LEASTPLAYEDAVG_APC
 	EN	Albums - least played (average count) (APC)   (by selected artist)
-	FR	Albums - les moins joués (compte moyen) (APC) (APC)   (de l'artiste sélectionné)
+	FR	Albums - les moins joués (compte moyen) (APC)   (de l'artiste sélectionné)
 
 PLUGIN_DYNAMICPLAYLISTS3_BUILTIN_PLAYLIST_CONTEXT_ARTIST_ALBUMS_NEVERPLAYED_APC
 	EN	Albums - never played (APC)   (by selected artist)
-	FR	Albums - jamais jouées (APC) (APC)   (de l'artiste sélectionné)
+	FR	Albums - jamais jouées (APC)   (de l'artiste sélectionné)
 
 PLUGIN_DYNAMICPLAYLISTS3_BUILTIN_PLAYLIST_CONTEXT_ARTIST_ALBUMS_PLAYEDLONGAGO_APC
 	EN	Albums - played long ago (APC)   (by selected artist)
-	FR	Albums - joués il y a longtemps (APC) (APC)   (de l'artiste sélectionné)
+	FR	Albums - joués il y a longtemps (APC)   (de l'artiste sélectionné)
 
 
 PLUGIN_DYNAMICPLAYLISTS3_BUILTIN_PLAYLIST_CONTEXT_GENRE_SONGS_MOSTPLAYED_APC
