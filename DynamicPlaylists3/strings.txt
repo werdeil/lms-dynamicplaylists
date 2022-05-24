@@ -220,7 +220,7 @@ SETTINGS_PLUGIN_DYNAMICPLAYLISTS3_EXCLUDEDGENRES
 
 SETTINGS_PLUGIN_DYNAMICPLAYLISTS3_EXCLUDEDGENRES_DESC
 	EN	Choose genres to exclude from dynamic playlists that use the <i>ExcludedGenres</i> parameter (built-in playlists use this).
-	FR	Choisit les genres à exclure des listes de lecture dynamiques qui utilisent le paramètre <i>ExcludedGenres</i> (les listes de lecture intégrées l'utilise)
+	FR	Choisit les genres à exclure des listes de lecture dynamiques qui utilisent le paramètre <i>ExcludedGenres</i> (les listes de lecture intégrées l'utilisent)
 
 
 
@@ -254,7 +254,7 @@ SETTINGS_PLUGIN_DYNAMICPLAYLISTS3_SELECT_FAVOURITES
 
 SETTINGS_PLUGIN_DYNAMICPLAYLISTS3_SELECT_FAVOURITES_DESC
 	EN	Select favourites
-	FR	Sélectionne les favoris
+	FR	Sélectionner les favoris
 
 PLUGIN_DYNAMICPLAYLISTS3_SELECT_PLAYLISTS_NONE
 	EN	Select NO Playlists
@@ -323,7 +323,7 @@ PLUGIN_DYNAMICPLAYLISTS3_DSTM_PLAY_FAILED
 
 PLUGIN_DYNAMICPLAYLISTS3_DSTM_PLAY_FAILED_LONG
 	EN	Can't start DSTM. No DSTM provider enabled.
-	FR	Impossible de démarrer ls DSTM. Aucun fournisseur DSTM activé
+	FR	Impossible de démarrer DSTM. Aucun fournisseur DSTM activé
 
 SETTINGS_PLUGIN_DYNAMICPLAYLISTS3_DSTM_STARTINDEX
 	EN	Start DSTM mix with
@@ -331,7 +331,7 @@ SETTINGS_PLUGIN_DYNAMICPLAYLISTS3_DSTM_STARTINDEX
 
 SETTINGS_PLUGIN_DYNAMICPLAYLISTS3_DSTM_STARTINDEX_DESC
 	EN	After DPL has created a seed list for the <i>Don't Stop The Music</i> plugin, i.e. added tracks to the client's playlist choose if you want to start your DSTM mix with the <b>first</b> or the <b>last</b> song of that seed list.<br>Choosing the <i>last</i> song should trigger DSTM to add new tracks right away while skipping playback of all seed list tracks (but the last one).
-	FR	Après que DPL ait créé une liste pour le plugin <i>Don't Stop The Music</i>, i.e. ajoute des morceaux à la liste de lecture du client choisissez si vous voulez commencer votre mix DSTM avec le <b>premier</b> ou le <b>dernier</b> morceau de cette liste.<br>Choisir le <i>dernier</i> morceaux déclenchera le DSTM pour ajouter des nouveaux morceaux directement tout en sautant la lecture des morceaux de la iste (sauf le dernier).
+	FR	Après que DPL ait créé une liste pour le plugin <i>Don't Stop The Music (DSTM)</i>, i.e. ajoute des morceaux à la liste de lecture du client choisissez si vous voulez commencer votre mix DSTM avec le <b>premier</b> ou le <b>dernier</b> morceau de cette liste.<br>Choisir le <i>dernier</i> morceaux déclenchera le DSTM pour ajouter des nouveaux morceaux directement tout en sautant la lecture des morceaux de la liste (sauf le dernier).
 
 SETTINGS_PLUGIN_DYNAMICPLAYLISTS3_DSTM_STARTINDEX_FIRST
 	EN	first song
@@ -344,7 +344,7 @@ SETTINGS_PLUGIN_DYNAMICPLAYLISTS3_DSTM_STARTINDEX_LAST
 
 SETTINGS_PLUGIN_DYNAMICPLAYLISTS3_FAVOURITESNAME
 	EN	Favourites group name
-	FR	Nom de groupe favori
+	FR	Nom du groupe des favoris
 
 SETTINGS_PLUGIN_DYNAMICPLAYLISTS3_FAVOURITESNAME_DESC
 	EN	Favourite dynamic playlists will be put in a group with this name
